@@ -1,0 +1,12 @@
+<<
+/Creator (PScript5.dll Version 5.2.2)
+/Producer <4163726F6261742044697374696C6C657220352E302E35202857696E646F7773293B206D6F646966696564207573696E67206954657874AE20352E312E3320A9323030302D323031312031543358542042564241>
+/Title (Microsoft Word - Moini nuovo formato)
+/ModDate (D:20120508134818+01'00')
+/Author (cristina.maltoni)
+/CreationDate (D:20110330102415Z)
+/CrossmarkMajorVersionDate (2008-08-14)
+/CrossMarkDomains#5B1#5D (psychoceramics.labs.crossref.org)
+/doi (10.5555/12345678)
+/CrossmarkDomainExclusive (false)
+>>
